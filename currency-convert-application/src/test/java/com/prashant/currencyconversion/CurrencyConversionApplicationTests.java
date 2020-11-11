@@ -1,4 +1,4 @@
-package com.opencodez.currencyconversion;
+package com.prashant.currencyconversion;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
