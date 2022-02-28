@@ -1,2 +1,1 @@
-# SpringBootProgram - Currency Conversion
-This repository consist of my work of spring boot. This spring boot application helps to convert the currency of various conturies.
+This repository is the demo representation of how to add Spring Security to a fresh Spring Boot application. Adding Spring Security to Spring Boot has a surprising and interesting effect.
